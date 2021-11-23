@@ -2,7 +2,7 @@
 #import <UIKit/UIKit.h>
 #import <CallKit/CallKit.h>
 #import <Intents/Intents.h>
-//#import <AVFoundation/AVAudioSession.h>
+#import <AVFAudio/AVAudioSession.h>
 
 #import <React/RCTEventEmitter.h>
 #import <UserNotifications/UserNotifications.h>
